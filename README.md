@@ -20,9 +20,6 @@ A **responsive and interactive Weather App** that allows users to check real-tim
 - **Fetch API (OpenWeather API integration)**
 - **Font Awesome (Icons)**
 
-## 📸 Screenshots
-*(Add screenshots of your app here to showcase the UI.)*
-
 ## 📚 Installation
 1. **Clone the repository:**  
    ```bash
