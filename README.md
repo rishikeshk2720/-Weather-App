@@ -20,13 +20,3 @@ A **responsive and interactive Weather App** that allows users to check real-tim
 - **Fetch API (OpenWeather API integration)**
 - **Font Awesome (Icons)**
 
-## 📚 Installation
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
-   ```
-2. **Navigate to the project folder:**  
-   ```bash
-   cd weather-app
-   ```
-3. **Open `index.html` in your browser**  
